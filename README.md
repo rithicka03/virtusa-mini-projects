@@ -1,5 +1,5 @@
 # virtusa-mini-projects
-It comprises of various mini projects in Python, SQL and Java. Each project is based on a practical business use case and focuses on applying programming fundamentals, logical thinking, and problem-solving skills.
+The repository comprises of various mini projects in Python, SQL and Java. Each project is based on a practical business use case and focuses on applying programming fundamentals, logical thinking, and problem-solving skills.
 
 **Digital Library Audit:** Built using SQL and demonstrates core database concepts such as creating tables, inserting records, updating data, deleting inactive records, and retrieving useful insights through queries. It uses joins, grouping, aggregate functions, and date operations to manage books, students, and borrowing activities efficiently.
 
